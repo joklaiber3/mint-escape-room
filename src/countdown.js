@@ -29,7 +29,7 @@ var x = setInterval(function () {
 
   if (distance < 0) {
     // If time is up
-    window.location.assign("/game-over.html");
+    window.location.href = "./home.html";
     window.localStorage.removeItem("endDate");
   }
 
