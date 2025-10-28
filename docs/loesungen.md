@@ -11,7 +11,7 @@ Anzahl der möglichen Lösungen: 2
 
 **2 - Aktiviere die Software!**
 
-Lösung: heartbleed bug
+Lösung: anonymous
 
 **3 - Kein Strom mehr!**
 
